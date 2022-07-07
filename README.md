@@ -7,7 +7,7 @@ NIM   : 311810084
 Kelas : TI 18 D5
 ~~~
 
-# 1. Tutorial Cara Membuat Applikasi GUI
+# 1. Tutorial Cara Menghitung Nilai MSE , RMSE , dan PSNR
 ketik guide pada command windows lalu tekan enter
 
 ![image](https://user-images.githubusercontent.com/43899437/165760596-1e270d44-4020-4898-a4f8-8cea7cd5ce5f.png)
