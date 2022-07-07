@@ -413,11 +413,11 @@ end
 ![image](https://user-images.githubusercontent.com/43899437/177664873-564452db-019e-4cdf-93ec-23f91ff3e0e8.png)
 ![image](https://user-images.githubusercontent.com/43899437/177665068-0916b6ed-38bd-4169-b426-266d24cea856.png)
 
-# 7. Hasil Akhir
+# 7. Proses
 ![image](https://user-images.githubusercontent.com/43899437/177665150-58859b06-adf1-4617-a5fd-64c477fd849c.png)
 
-# 8. mean 3x3
+# 8. Mean 3x3
 ![image](https://user-images.githubusercontent.com/43899437/177665170-bf6df126-df21-43a2-951e-5b906640bf1d.png)
 
-# 8. mean 5x5
+# 8. Mean 5x5
 ![image](https://user-images.githubusercontent.com/43899437/177665242-7e78bd5a-334c-4d56-94e6-2cd56f1c5c24.png)
