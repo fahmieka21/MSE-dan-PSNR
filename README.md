@@ -1,4 +1,4 @@
-# MSE-dan-PSNR
+# Penghitung Nilai MSE , RMSE , dan PSNR
 
 Aplikasi GUI Penghitung Nilai MSE , RMSE , dan PSNR
 ~~~
